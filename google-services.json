@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "876145377321",
+    "project_id": "quizs-4fa1b",
+    "storage_bucket": "quizs-4fa1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876145377321:android:6fefef7c4a0c092cfe9c38",
+        "android_client_info": {
+          "package_name": "com.lereontop.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876145377321-g672e4oue19rbqaljt9v5khapfu1882h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFFcwcd-oemZiD3bprtGW2DtAEIIL3Jmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876145377321-g672e4oue19rbqaljt9v5khapfu1882h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
